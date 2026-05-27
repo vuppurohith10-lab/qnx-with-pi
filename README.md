@@ -81,6 +81,11 @@ Example:
 
 qcc program.c -o output
 ./output
+
+
+
+
+
 👨‍💻 Author
 Rohith Vuppu
 
